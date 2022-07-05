@@ -1,1 +1,1 @@
-# demo-project
+# Practice Training
